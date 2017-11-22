@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         helloButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                helloWorld.setText("Hello world!");
+                helloWorld.setText(R.string.hello_world);
             }
         });
     }

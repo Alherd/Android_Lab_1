@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android_Lab_1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_button">Приветствие</string>
 </resources>
